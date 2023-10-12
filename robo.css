@@ -1,0 +1,472 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.s {
+  background-image: url(robobg.jpg);
+  background-size: contain;
+  height: 880px;
+  width: 1680px;
+  background-size: cover;
+  overflow-x: hidden;
+  position: relative;
+  right: 100px;
+}
+.a {
+  position: relative;
+  left: 280px;
+  top: 100px;
+}
+body {
+  overflow-x: hidden;
+}
+.firsth1 {
+  position: relative;
+  left: 368px;
+  top: 67px;
+  font-size: 100px;
+  color: white;
+  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+ 
+}
+.firstp {
+  position: relative;
+  left: 370px;
+  top: 100px;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  line-height: 40px;
+}
+.sec2 {
+  height: 670px;
+  width: 1680px;
+  /* border: 3px solid greenyellow; */
+  background-color: rgb(255, 255, 255);
+}
+.h5 {
+  color: black;
+  position: relative;
+  left: 200px;
+  top: 100px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+}
+.hr {
+  width: 400px;
+  height: 15px;
+  left: 200px;
+  background-color: rgb(122, 238, 238);
+  position: relative;
+  top: 170px;
+}
+.sech1 {
+  font-size: 60px;
+  color: black;
+  position: relative;
+  left: 200px;
+  top: 105px;
+  font-family: "Open Sans", sans-serif;
+  color: #834496;
+}
+.p1 {
+  font-family: "Open Sans", sans-serif;
+  position: relative;
+  top: 150px;
+  left: 200px;
+  font-size: 19px;
+  line-height: 32px;
+  color: rgb(116, 113, 113);
+}
+.bub1 {
+  height: 600px;
+  width: 500px;
+  position: relative;
+  left: 1080px;
+  bottom: 490px;
+}
+.button1 {
+  position: relative;
+  bottom: 380px;
+  height: 50px;
+  width: 150px;
+  border: 1px solid aqua;
+  right: 310px;
+  color: #834496;
+  font-size: 15px;
+  font-family: "Open Sans", sans-serif;
+}
+.button1:hover {
+  background-color: aqua;
+}
+.bg3 {
+  background-image: url(bg3.jpeg);
+  background-size: contain;
+
+  height: 980px;
+  width: 1590px;
+  background-size: cover;
+  /* overflow-x: hidden; */
+  position: relative;
+  /* right: 100px; */
+}
+.rou2 {
+  height: 500px;
+  width: 500px;
+  position: relative;
+  /* left: 800px;  */
+  border-radius: 500px;
+  bottom: 290px;
+  left: 690px;
+}
+.rou1 {
+  position: relative;
+  left: 570px;
+  bottom: 290px;
+}
+.bub2 {
+  height: 450px;
+  width: 360px;
+  position: relative;
+  right: 700px;
+  bottom: 140px;
+}
+.robo1 {
+  height: 350px;
+  width: 260px;
+  position: relative;
+  right: 870px;
+  top: 250px;
+  transition: 1s;
+}
+.robo1:hover {
+  transform: scale(1.2);
+}
+.robo2 {
+  width: 280px;
+  position: relative;
+  right: 840px;
+  height: 580px;
+  top: 300px;
+  transition: 1s;
+}
+.robo2:hover {
+  transform: scale(1.2);
+}
+.robo3 {
+  height: 320px;
+  width: 270px;
+  position: relative;
+  left: 760px;
+  transition: 1s;
+  bottom: 200px;
+}
+.robo3:hover {
+  transform: scale(1.2);
+}
+.robo4 {
+  height: 400px;
+  width: 260px;
+  position: relative;
+  left: 800px;
+  bottom: 200px;
+  transition: 1s;
+}
+.robo4:hover {
+  transform: scale(1.2);
+}
+.secp {
+  position: relative;
+  bottom: 150px;
+  left: 780px;
+  color: rgb(237, 233, 233);
+  font-size: 20px;
+  font-weight: 300;
+  font-family: "Open Sans", sans-serif;
+}
+.sec3 {
+  height: 770px;
+  width: 1550px;
+  /* border: 3px solid greenyellow; */
+  background-color: rgb(255, 255, 255);
+  
+}
+.box1 {
+  height: 340px;
+  width: 340px;
+  /* border: 1px solid sandybrown; */
+  position: relative;
+  left: 200px;
+  top: 200px;
+  line-height: 50px;
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(72, 69, 69);
+  font-weight: 10;
+  display: inline-block;
+}
+.box2 {
+  height: 340px;
+  width: 340px;
+  /* border: 1px solid sandybrown; */
+  position: relative;
+  left: 200px;
+  top: 200px;
+  line-height: 50px;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(72, 69, 69);
+  font-weight: 10;
+  font-size: 18px;
+  display: inline-block;
+}
+.box1:hover {
+  transform: scale(1.2);
+}
+.box2:hover {
+  transform: scale(1.2);
+}
+.bub3 {
+  height: 500px;
+  width: 520px;
+  position: relative;
+  left: 1070px;
+  bottom: 590px;
+}
+.bg5 {
+  width: 1550px;
+  height: 700px;
+  background-image: url(bg5.jpg);
+  opacity: 0.9;
+  background-repeat: no-repeat;
+}
+.bub4 {
+  height: 450px;
+  width: 450px;
+  position: relative;
+  bottom: 100px;
+}
+.h {
+  font-size: 200px;
+}
+.thirdp {
+  position: relative;
+  bottom: 200px;
+  left: 500px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.55rem;
+  color: rgb(231, 228, 228);
+  font-weight: 300;
+  line-height: 35px;
+  word-spacing: 5px;
+}
+.fh5 {
+  font-size: 40px;
+  color: white;
+  position: relative;
+  left: 1090px;
+  bottom: 150px;
+  font-family: "Open Sans", sans-serif;
+}
+.bg6 {
+  background-image: url(bg6.jpg);
+  height: 630px;
+  width: 1550px;
+}
+.robocar1 {
+  width: 690px;
+  height: 425px;
+  position: relative;
+  bottom: 100px;
+  left: 200px;
+}
+.bor {
+  background-color: rgb(129, 236, 236);
+  height: 150px;
+  width: 100px;
+  border: 1px solid snow;
+  position: relative;
+  bottom: 140px;
+  left: 400px;
+}
+.robocar2 {
+  width: 380px;
+  height: 270px;
+  position: relative;
+  bottom: 350px;
+  left: 430px;
+}
+.hrr {
+  width: 400px;
+  height: 15px;
+  left: 930px;
+  background-color: rgb(122, 238, 238);
+  position: relative;
+  bottom: 700px;
+}
+.h16 {
+  position: relative;
+  left: 930px;
+  bottom: 765px;
+  font-size: 60px;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+}
+.f6 {
+  position: relative;
+  left: 930px;
+  bottom: 700px;
+  font-size: 21px;
+  color: white;
+  line-height: 35px;
+  font-family: "Open Sans", sans-serif;
+}
+.sec7 {
+  height: 870px;
+  width: 1550px;
+  /* border: 3px solid greenyellow; */
+  background-color: rgb(239, 232, 232);
+}
+.bub5 {
+  height: 550px;
+  width: 470px;
+  position: relative;
+  left: 1080px;
+  bottom: 200px;
+}
+.h57 {
+  position: relative;
+  bottom: 480px;
+  left: 200px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+}
+.sech1-7 {
+  position: relative;
+  font-size: 60px;
+  bottom: 450px;
+  left: 200px;
+  font-family: "Open Sans", sans-serif;
+  color: #834496;
+}
+.h4-7 {
+  position: relative;
+  left: 200px;
+  bottom: 400px;
+  font-family: "Open Sans", sans-serif;
+  color: #834496;
+  font-size: 29px;
+}
+
+.para {
+  position: relative;
+  left: 200px;
+  bottom: 360px;
+  color: rgb(116, 112, 112);
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 100;
+  line-height: 35px;
+  letter-spacing: 2px;
+}
+
+.fly {
+  height: 180px;
+  width: 300px;
+  position: relative;
+  left: 885px;
+  bottom: 1400px;
+}
+
+.robohand {
+  height: 300px;
+  width: 460px;
+  position: relative;
+  left: 700px;
+  bottom: 840px;
+}
+.box2-7 {
+  height: 190px;
+  width: 330px;
+  /* border: 1px solid red; */
+  background-color: rgb(129, 236, 236);
+  position: relative;
+  bottom: 1250px;
+  left: 850px;
+}
+.para1-7 {
+  position: relative;
+  left: 700px;
+  bottom: 1200px;
+  color: rgb(116, 112, 112);
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 100;
+  line-height: 35px;
+  letter-spacing: 2px;
+}
+.bg8 {
+  height: 600px;
+  width: 1550px;
+  background-image: url(bg8.jpeg);
+  position: relative;
+}
+.robo6 {
+  height: 339px;
+  width: 25
+  0px;
+  position: relative;
+  bottom: 270px;
+  left: 160px;
+}
+
+.robo7 {
+  height: 570px;
+  width: 270px;
+  position: relative;
+  bottom: 100px;
+  left: 180px;
+}
+
+.robo8 {
+  height: 395px;
+  width: 250px;
+  position: relative;
+  bottom: 240px;
+  left: 205px;
+}
+.robo9 {
+  height: 339px;
+  width: 270px;
+  position: relative;
+  bottom: 330px;
+  left: 230px;
+}
+.para1-8 {
+  position: relative;
+  left: 1030px;
+  bottom: 300px;
+  color: rgb(242, 236, 236);
+  font-size: 18px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 100;
+  line-height: 35px;
+  letter-spacing: 2px;
+}
+.pinkbox {
+  color: #ffffff;
+  height: 250px;
+  width: 1550px;
+  background-color: #ff4892;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 16px;
+  font-family: Open Sans, sans-serif;
+}
+
+.blkbox {
+  height: 120px;
+  width: 1550px;
+  color: #ffffff;
+  background-color: #333333;
+}
